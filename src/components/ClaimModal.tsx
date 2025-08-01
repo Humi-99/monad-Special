@@ -166,5 +166,3 @@ export function ClaimModal({ isOpen, onClose, prizeName }: ClaimModalProps) {
   );
 }
 
-
-kjjkkl
