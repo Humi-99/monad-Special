@@ -165,3 +165,6 @@ export function ClaimModal({ isOpen, onClose, prizeName }: ClaimModalProps) {
     </Dialog>
   );
 }
+
+
+kjjkkl
