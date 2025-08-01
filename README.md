@@ -2,17 +2,10 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/09060c2c-4eba-438a-af21-264f0a46dab3
-
+**URL**: https://monad-special.vercel.app
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/09060c2c-4eba-438a-af21-264f0a46dab3) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -36,12 +29,6 @@ npm i
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
 **Use GitHub Codespaces**
 
 - Navigate to the main page of your repository.
@@ -62,12 +49,5 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/09060c2c-4eba-438a-af21-264f0a46dab3) and click on Share -> Publish.
+using vercel :https://vercel.com/
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
